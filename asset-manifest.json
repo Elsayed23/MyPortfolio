@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MyPortfolio/static/css/main.0e44c694.css",
-    "main.js": "/MyPortfolio/static/js/main.4bdb5133.js",
+    "main.js": "/MyPortfolio/static/js/main.9fbb2009.js",
     "static/media/spec-design.png": "/MyPortfolio/static/media/spec-design.9629e3ffb7cb77fb27a7.png",
     "static/media/restoran.png": "/MyPortfolio/static/media/restoran.b2c6e8767ec9c6c9cae0.png",
     "static/media/NFT-market.png": "/MyPortfolio/static/media/NFT-market.74e916fc2b4f59686fc5.png",
@@ -21,7 +21,7 @@
     "static/media/fylo.png": "/MyPortfolio/static/media/fylo.ead727e3b1051ef94f43.png",
     "static/media/js.png": "/MyPortfolio/static/media/js.fb3d3fa5c4b626e26f39.png",
     "static/media/github.png": "/MyPortfolio/static/media/github.b59201ef2ff446316717.png",
-    "static/media/my-resume.pdf": "/MyPortfolio/static/media/my-resume.021a5b2c6fc4b275483c.pdf",
+    "static/media/my-resume.pdf": "/MyPortfolio/static/media/my-resume.e64ec675058050808bc0.pdf",
     "static/media/quran.png": "/MyPortfolio/static/media/quran.a257b40d89b1c49217b6.png",
     "static/media/myPhoto.jpeg": "/MyPortfolio/static/media/myPhoto.2d9da363444e973543ce.jpeg",
     "static/media/multi-step.png": "/MyPortfolio/static/media/multi-step.2c9f1fdb6fda0ecdac67.png",
@@ -35,10 +35,10 @@
     "static/media/react.png": "/MyPortfolio/static/media/react.ae04681c76378441b186.png",
     "index.html": "/MyPortfolio/index.html",
     "main.0e44c694.css.map": "/MyPortfolio/static/css/main.0e44c694.css.map",
-    "main.4bdb5133.js.map": "/MyPortfolio/static/js/main.4bdb5133.js.map"
+    "main.9fbb2009.js.map": "/MyPortfolio/static/js/main.9fbb2009.js.map"
   },
   "entrypoints": [
     "static/css/main.0e44c694.css",
-    "static/js/main.4bdb5133.js"
+    "static/js/main.9fbb2009.js"
   ]
 }
