@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MyPortfolio/static/css/main.970e08ee.css",
-    "main.js": "/MyPortfolio/static/js/main.e1a19eb3.js",
+    "main.js": "/MyPortfolio/static/js/main.a9aa987b.js",
     "static/media/spec-design.png": "/MyPortfolio/static/media/spec-design.9629e3ffb7cb77fb27a7.png",
     "static/media/restoran.png": "/MyPortfolio/static/media/restoran.b2c6e8767ec9c6c9cae0.png",
     "static/media/NFT-market.png": "/MyPortfolio/static/media/NFT-market.74e916fc2b4f59686fc5.png",
@@ -9,11 +9,11 @@
     "static/media/sign-up.png": "/MyPortfolio/static/media/sign-up.dca6385bd7735e5d2618.png",
     "static/media/kemet.png": "/MyPortfolio/static/media/kemet.06c7fe7a2756d33b02d5.png",
     "static/media/gym.png": "/MyPortfolio/static/media/gym.6fbb77b0d6e892f2d687.png",
-    "static/media/fresh-cart.png": "/MyPortfolio/static/media/fresh-cart.bb66080df3bc9c863282.png",
     "static/media/leon.png": "/MyPortfolio/static/media/leon.00e35ce77512dfc7e0a1.png",
     "static/media/coffee.png": "/MyPortfolio/static/media/coffee.3e441fa47589e157739a.png",
     "static/media/clipboard.png": "/MyPortfolio/static/media/clipboard.81cdd962f2818ed222af.png",
     "static/media/steel.png": "/MyPortfolio/static/media/steel.f35a95675488ddd00216.png",
+    "static/media/fresh-cart.png": "/MyPortfolio/static/media/fresh-cart.1dced93b304306610035.png",
     "static/media/lugx.png": "/MyPortfolio/static/media/lugx.c79582eca5b82ab66543.png",
     "static/media/log-in.png": "/MyPortfolio/static/media/log-in.08584849ba83cfb6bb29.png",
     "static/media/huddle.png": "/MyPortfolio/static/media/huddle.4554b3ec3b52687c913a.png",
@@ -27,8 +27,8 @@
     "static/media/fylo.png": "/MyPortfolio/static/media/fylo.ead727e3b1051ef94f43.png",
     "static/media/js.png": "/MyPortfolio/static/media/js.fb3d3fa5c4b626e26f39.png",
     "static/media/github.png": "/MyPortfolio/static/media/github.b59201ef2ff446316717.png",
+    "static/media/quran.png": "/MyPortfolio/static/media/quran.907ee31ce2c9f89fa9f5.png",
     "static/media/Elsayed resume.pdf": "/MyPortfolio/static/media/Elsayed resume.22b6eb15ad31bf161fb9.pdf",
-    "static/media/quran.png": "/MyPortfolio/static/media/quran.a257b40d89b1c49217b6.png",
     "static/media/myPhoto.jpeg": "/MyPortfolio/static/media/myPhoto.2d9da363444e973543ce.jpeg",
     "static/media/multi-step.png": "/MyPortfolio/static/media/multi-step.2c9f1fdb6fda0ecdac67.png",
     "static/media/axios.png": "/MyPortfolio/static/media/axios.7c451cf26e43234d9940.png",
@@ -41,10 +41,10 @@
     "static/media/react.png": "/MyPortfolio/static/media/react.ae04681c76378441b186.png",
     "index.html": "/MyPortfolio/index.html",
     "main.970e08ee.css.map": "/MyPortfolio/static/css/main.970e08ee.css.map",
-    "main.e1a19eb3.js.map": "/MyPortfolio/static/js/main.e1a19eb3.js.map"
+    "main.a9aa987b.js.map": "/MyPortfolio/static/js/main.a9aa987b.js.map"
   },
   "entrypoints": [
     "static/css/main.970e08ee.css",
-    "static/js/main.e1a19eb3.js"
+    "static/js/main.a9aa987b.js"
   ]
 }
