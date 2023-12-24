@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.cc33d115.css",
-    "main.js": "/MyPortfolio/static/js/main.69b73329.js",
+    "main.css": "/MyPortfolio/static/css/main.71f2595c.css",
+    "main.js": "/MyPortfolio/static/js/main.33c24eba.js",
     "static/media/spec-design.png": "/MyPortfolio/static/media/spec-design.9629e3ffb7cb77fb27a7.png",
     "static/media/restoran.png": "/MyPortfolio/static/media/restoran.b2c6e8767ec9c6c9cae0.png",
     "static/media/NFT-market.png": "/MyPortfolio/static/media/NFT-market.74e916fc2b4f59686fc5.png",
@@ -24,26 +24,26 @@
     "static/media/memeGenerator.png": "/MyPortfolio/static/media/memeGenerator.9b477d2d35aedcd84f08.png",
     "static/media/chat-app.png": "/MyPortfolio/static/media/chat-app.21517b5b4e4c367c994a.png",
     "static/media/spec-page.png": "/MyPortfolio/static/media/spec-page.f2ecf4e5171f5ca7f476.png",
+    "static/media/Elsayed resume.pdf": "/MyPortfolio/static/media/Elsayed resume.136b8a3577ee6a333959.pdf",
     "static/media/fylo.png": "/MyPortfolio/static/media/fylo.ead727e3b1051ef94f43.png",
     "static/media/js.png": "/MyPortfolio/static/media/js.fb3d3fa5c4b626e26f39.png",
     "static/media/github.png": "/MyPortfolio/static/media/github.b59201ef2ff446316717.png",
-    "static/media/Elsayed resume.pdf": "/MyPortfolio/static/media/Elsayed resume.eea3f806debe40e741f1.pdf",
     "static/media/myPhoto.jpeg": "/MyPortfolio/static/media/myPhoto.2d9da363444e973543ce.jpeg",
     "static/media/multi-step.png": "/MyPortfolio/static/media/multi-step.2c9f1fdb6fda0ecdac67.png",
-    "static/media/axios.png": "/MyPortfolio/static/media/axios.7c451cf26e43234d9940.png",
     "static/media/bondi.png": "/MyPortfolio/static/media/bondi.02e392cf3d39629bcc6b.png",
+    "static/media/age_calculator.png": "/MyPortfolio/static/media/age_calculator.15c8336639ed7516f1b0.png",
     "static/media/calculator.png": "/MyPortfolio/static/media/calculator.eba7612b4d719d27d604.png",
     "static/media/logo.png": "/MyPortfolio/static/media/logo.961c574a19251b8b80b1.png",
     "static/media/react-router.png": "/MyPortfolio/static/media/react-router.24aa052cf5cc1e6b851f.png",
-    "static/media/formik.png": "/MyPortfolio/static/media/formik.95443f3a820d21784c67.png",
     "static/media/SQL.png": "/MyPortfolio/static/media/SQL.934b5a16397ffe001902.png",
     "static/media/mySQL.png": "/MyPortfolio/static/media/mySQL.8ca52c25afffafaa83f1.png",
+    "static/media/API.svg": "/MyPortfolio/static/media/API.390ebf0678c5834c980751921aa2c054.svg",
     "index.html": "/MyPortfolio/index.html",
-    "main.cc33d115.css.map": "/MyPortfolio/static/css/main.cc33d115.css.map",
-    "main.69b73329.js.map": "/MyPortfolio/static/js/main.69b73329.js.map"
+    "main.71f2595c.css.map": "/MyPortfolio/static/css/main.71f2595c.css.map",
+    "main.33c24eba.js.map": "/MyPortfolio/static/js/main.33c24eba.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc33d115.css",
-    "static/js/main.69b73329.js"
+    "static/css/main.71f2595c.css",
+    "static/js/main.33c24eba.js"
   ]
 }
