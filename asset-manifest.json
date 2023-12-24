@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.71f2595c.css",
-    "main.js": "/MyPortfolio/static/js/main.33c24eba.js",
+    "main.css": "/MyPortfolio/static/css/main.26cf3b6e.css",
+    "main.js": "/MyPortfolio/static/js/main.537e0702.js",
     "static/media/spec-design.png": "/MyPortfolio/static/media/spec-design.9629e3ffb7cb77fb27a7.png",
     "static/media/restoran.png": "/MyPortfolio/static/media/restoran.b2c6e8767ec9c6c9cae0.png",
     "static/media/NFT-market.png": "/MyPortfolio/static/media/NFT-market.74e916fc2b4f59686fc5.png",
@@ -39,11 +39,11 @@
     "static/media/mySQL.png": "/MyPortfolio/static/media/mySQL.8ca52c25afffafaa83f1.png",
     "static/media/API.svg": "/MyPortfolio/static/media/API.390ebf0678c5834c980751921aa2c054.svg",
     "index.html": "/MyPortfolio/index.html",
-    "main.71f2595c.css.map": "/MyPortfolio/static/css/main.71f2595c.css.map",
-    "main.33c24eba.js.map": "/MyPortfolio/static/js/main.33c24eba.js.map"
+    "main.26cf3b6e.css.map": "/MyPortfolio/static/css/main.26cf3b6e.css.map",
+    "main.537e0702.js.map": "/MyPortfolio/static/js/main.537e0702.js.map"
   },
   "entrypoints": [
-    "static/css/main.71f2595c.css",
-    "static/js/main.33c24eba.js"
+    "static/css/main.26cf3b6e.css",
+    "static/js/main.537e0702.js"
   ]
 }
