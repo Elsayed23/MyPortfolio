@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.5c13a940.css",
-    "main.js": "/MyPortfolio/static/js/main.b3b93523.js",
+    "main.css": "/MyPortfolio/static/css/main.a18c3be6.css",
+    "main.js": "/MyPortfolio/static/js/main.d4b4d31a.js",
     "static/media/spec-design.png": "/MyPortfolio/static/media/spec-design.9629e3ffb7cb77fb27a7.png",
     "static/media/restoran.png": "/MyPortfolio/static/media/restoran.b2c6e8767ec9c6c9cae0.png",
     "static/media/NFT-market.png": "/MyPortfolio/static/media/NFT-market.74e916fc2b4f59686fc5.png",
@@ -23,8 +23,8 @@
     "static/media/twitter-clone.png": "/MyPortfolio/static/media/twitter-clone.27bd6aa87b6582002433.png",
     "static/media/memeGenerator.png": "/MyPortfolio/static/media/memeGenerator.9b477d2d35aedcd84f08.png",
     "static/media/chat-app.png": "/MyPortfolio/static/media/chat-app.21517b5b4e4c367c994a.png",
+    "static/media/Elsayed resume.pdf": "/MyPortfolio/static/media/Elsayed resume.667467012dc7366435a1.pdf",
     "static/media/spec-page.png": "/MyPortfolio/static/media/spec-page.f2ecf4e5171f5ca7f476.png",
-    "static/media/Elsayed resume.pdf": "/MyPortfolio/static/media/Elsayed resume.136b8a3577ee6a333959.pdf",
     "static/media/fylo.png": "/MyPortfolio/static/media/fylo.ead727e3b1051ef94f43.png",
     "static/media/js.png": "/MyPortfolio/static/media/js.fb3d3fa5c4b626e26f39.png",
     "static/media/github.png": "/MyPortfolio/static/media/github.b59201ef2ff446316717.png",
@@ -39,11 +39,11 @@
     "static/media/mySQL.png": "/MyPortfolio/static/media/mySQL.8ca52c25afffafaa83f1.png",
     "static/media/API.svg": "/MyPortfolio/static/media/API.390ebf0678c5834c980751921aa2c054.svg",
     "index.html": "/MyPortfolio/index.html",
-    "main.5c13a940.css.map": "/MyPortfolio/static/css/main.5c13a940.css.map",
-    "main.b3b93523.js.map": "/MyPortfolio/static/js/main.b3b93523.js.map"
+    "main.a18c3be6.css.map": "/MyPortfolio/static/css/main.a18c3be6.css.map",
+    "main.d4b4d31a.js.map": "/MyPortfolio/static/js/main.d4b4d31a.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c13a940.css",
-    "static/js/main.b3b93523.js"
+    "static/css/main.a18c3be6.css",
+    "static/js/main.d4b4d31a.js"
   ]
 }
