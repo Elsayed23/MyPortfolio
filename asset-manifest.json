@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.ffd66488.css",
-    "main.js": "/MyPortfolio/static/js/main.c193fdc8.js",
+    "main.css": "/MyPortfolio/static/css/main.b9432ab9.css",
+    "main.js": "/MyPortfolio/static/js/main.3b9540af.js",
     "static/media/spec-design.png": "/MyPortfolio/static/media/spec-design.9629e3ffb7cb77fb27a7.png",
     "static/media/restoran.png": "/MyPortfolio/static/media/restoran.b2c6e8767ec9c6c9cae0.png",
     "static/media/NFT-market.png": "/MyPortfolio/static/media/NFT-market.74e916fc2b4f59686fc5.png",
@@ -30,6 +30,7 @@
     "static/media/fylo.png": "/MyPortfolio/static/media/fylo.ead727e3b1051ef94f43.png",
     "static/media/js.png": "/MyPortfolio/static/media/js.fb3d3fa5c4b626e26f39.png",
     "static/media/github.png": "/MyPortfolio/static/media/github.b59201ef2ff446316717.png",
+    "static/media/hero.webp": "/MyPortfolio/static/media/hero.511c0e07b977c1c68d23.webp",
     "static/media/myPhoto.jpeg": "/MyPortfolio/static/media/myPhoto.2d9da363444e973543ce.jpeg",
     "static/media/multi-step.png": "/MyPortfolio/static/media/multi-step.2c9f1fdb6fda0ecdac67.png",
     "static/media/bondi.png": "/MyPortfolio/static/media/bondi.02e392cf3d39629bcc6b.png",
@@ -41,11 +42,11 @@
     "static/media/mySQL.png": "/MyPortfolio/static/media/mySQL.8ca52c25afffafaa83f1.png",
     "static/media/API.svg": "/MyPortfolio/static/media/API.390ebf0678c5834c980751921aa2c054.svg",
     "index.html": "/MyPortfolio/index.html",
-    "main.ffd66488.css.map": "/MyPortfolio/static/css/main.ffd66488.css.map",
-    "main.c193fdc8.js.map": "/MyPortfolio/static/js/main.c193fdc8.js.map"
+    "main.b9432ab9.css.map": "/MyPortfolio/static/css/main.b9432ab9.css.map",
+    "main.3b9540af.js.map": "/MyPortfolio/static/js/main.3b9540af.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffd66488.css",
-    "static/js/main.c193fdc8.js"
+    "static/css/main.b9432ab9.css",
+    "static/js/main.3b9540af.js"
   ]
 }
