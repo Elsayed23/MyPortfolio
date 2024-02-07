@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.7406dc80.css",
-    "main.js": "/MyPortfolio/static/js/main.839dffef.js",
+    "main.css": "/MyPortfolio/static/css/main.fc3d415e.css",
+    "main.js": "/MyPortfolio/static/js/main.2dad870c.js",
     "static/media/spec-design.png": "/MyPortfolio/static/media/spec-design.9629e3ffb7cb77fb27a7.png",
     "static/media/restoran.png": "/MyPortfolio/static/media/restoran.b2c6e8767ec9c6c9cae0.png",
     "static/media/NFT-market.png": "/MyPortfolio/static/media/NFT-market.74e916fc2b4f59686fc5.png",
@@ -20,9 +20,11 @@
     "static/media/hosting.png": "/MyPortfolio/static/media/hosting.61b1045d18aff2b1e87e.png",
     "static/media/GPT-3.png": "/MyPortfolio/static/media/GPT-3.c3f0e8f34c0af293faf1.png",
     "static/media/twitter-clone.png": "/MyPortfolio/static/media/twitter-clone.27bd6aa87b6582002433.png",
+    "static/media/ocean.png": "/MyPortfolio/static/media/ocean.b0eeffa50a975678f894.png",
     "static/media/pokemon.png": "/MyPortfolio/static/media/pokemon.40aac52eb3e022b67755.png",
     "static/media/qrcode-generator.png": "/MyPortfolio/static/media/qrcode-generator.21c7b6a8ba2a17690993.png",
     "static/media/memeGenerator.png": "/MyPortfolio/static/media/memeGenerator.9b477d2d35aedcd84f08.png",
+    "static/media/nike.png": "/MyPortfolio/static/media/nike.cb0feace49814403dff0.png",
     "static/media/chat-app.png": "/MyPortfolio/static/media/chat-app.21517b5b4e4c367c994a.png",
     "static/media/doml.png": "/MyPortfolio/static/media/doml.bf1e5ed30fd66e8f407a.png",
     "static/media/Elsayed resume.pdf": "/MyPortfolio/static/media/Elsayed resume.667467012dc7366435a1.pdf",
@@ -43,11 +45,11 @@
     "static/media/mySQL.png": "/MyPortfolio/static/media/mySQL.8ca52c25afffafaa83f1.png",
     "static/media/API.svg": "/MyPortfolio/static/media/API.390ebf0678c5834c980751921aa2c054.svg",
     "index.html": "/MyPortfolio/index.html",
-    "main.7406dc80.css.map": "/MyPortfolio/static/css/main.7406dc80.css.map",
-    "main.839dffef.js.map": "/MyPortfolio/static/js/main.839dffef.js.map"
+    "main.fc3d415e.css.map": "/MyPortfolio/static/css/main.fc3d415e.css.map",
+    "main.2dad870c.js.map": "/MyPortfolio/static/js/main.2dad870c.js.map"
   },
   "entrypoints": [
-    "static/css/main.7406dc80.css",
-    "static/js/main.839dffef.js"
+    "static/css/main.fc3d415e.css",
+    "static/js/main.2dad870c.js"
   ]
 }
