@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.fc3d415e.css",
-    "main.js": "/MyPortfolio/static/js/main.97c8bd27.js",
+    "main.css": "/MyPortfolio/static/css/main.cabebc4f.css",
+    "main.js": "/MyPortfolio/static/js/main.240446d9.js",
     "static/media/spec-design.png": "/MyPortfolio/static/media/spec-design.ca4470b21935579eee98.png",
     "static/media/restoran.png": "/MyPortfolio/static/media/restoran.543b88a3a7aae8731f7f.png",
     "static/media/NFT-market.png": "/MyPortfolio/static/media/NFT-market.fdfd2a1fc466576a7afe.png",
@@ -30,11 +30,11 @@
     "static/media/nike.png": "/MyPortfolio/static/media/nike.08c6cd8e8cf6f487ba3c.png",
     "static/media/js.png": "/MyPortfolio/static/media/js.fb3d3fa5c4b626e26f39.png",
     "static/media/pokemon.png": "/MyPortfolio/static/media/pokemon.b929955f32edb321b007.png",
+    "static/media/myPhoto.jpeg": "/MyPortfolio/static/media/myPhoto.0889b0fd9529357eba42.jpeg",
     "static/media/steel.png": "/MyPortfolio/static/media/steel.00b0b08d50c2cfff53d4.png",
     "static/media/chat-app.png": "/MyPortfolio/static/media/chat-app.b3be7dbcd79349de61a0.png",
     "static/media/github.png": "/MyPortfolio/static/media/github.b59201ef2ff446316717.png",
     "static/media/hero.webp": "/MyPortfolio/static/media/hero.511c0e07b977c1c68d23.webp",
-    "static/media/myPhoto.jpeg": "/MyPortfolio/static/media/myPhoto.2d9da363444e973543ce.jpeg",
     "static/media/multi-step.png": "/MyPortfolio/static/media/multi-step.2c9f1fdb6fda0ecdac67.png",
     "static/media/bondi.png": "/MyPortfolio/static/media/bondi.02e392cf3d39629bcc6b.png",
     "static/media/age_calculator.png": "/MyPortfolio/static/media/age_calculator.15c8336639ed7516f1b0.png",
@@ -46,11 +46,11 @@
     "static/media/mySQL.png": "/MyPortfolio/static/media/mySQL.8ca52c25afffafaa83f1.png",
     "static/media/API.svg": "/MyPortfolio/static/media/API.390ebf0678c5834c980751921aa2c054.svg",
     "index.html": "/MyPortfolio/index.html",
-    "main.fc3d415e.css.map": "/MyPortfolio/static/css/main.fc3d415e.css.map",
-    "main.97c8bd27.js.map": "/MyPortfolio/static/js/main.97c8bd27.js.map"
+    "main.cabebc4f.css.map": "/MyPortfolio/static/css/main.cabebc4f.css.map",
+    "main.240446d9.js.map": "/MyPortfolio/static/js/main.240446d9.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc3d415e.css",
-    "static/js/main.97c8bd27.js"
+    "static/css/main.cabebc4f.css",
+    "static/js/main.240446d9.js"
   ]
 }
