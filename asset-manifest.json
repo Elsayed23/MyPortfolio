@@ -1,12 +1,11 @@
 {
   "files": {
     "main.css": "/MyPortfolio/static/css/main.fc3d415e.css",
-    "main.js": "/MyPortfolio/static/js/main.992b1efa.js",
-    "static/media/spec-design.png": "/MyPortfolio/static/media/spec-design.ca4470b21935579eee98.png",
-    "static/media/local_face.png": "/MyPortfolio/static/media/local_face.510e543ea97715b94c1f.png",
+    "main.js": "/MyPortfolio/static/js/main.c245fcc1.js",
     "static/media/restoran.png": "/MyPortfolio/static/media/restoran.543b88a3a7aae8731f7f.png",
     "static/media/NFT-market.png": "/MyPortfolio/static/media/NFT-market.fdfd2a1fc466576a7afe.png",
     "static/media/leon.png": "/MyPortfolio/static/media/leon.32602eb7779ff8180699.png",
+    "static/media/spec-design.png": "/MyPortfolio/static/media/spec-design.913634325e4ebc3ba4eb.png",
     "static/media/hosting.png": "/MyPortfolio/static/media/hosting.61b1045d18aff2b1e87e.png",
     "static/media/gym.png": "/MyPortfolio/static/media/gym.3ec59849ec45cc996674.png",
     "static/media/sign-up.png": "/MyPortfolio/static/media/sign-up.2e7c204a40e4da745015.png",
@@ -19,12 +18,14 @@
     "static/media/doml.png": "/MyPortfolio/static/media/doml.bf1e5ed30fd66e8f407a.png",
     "static/media/Elsayed resume.pdf": "/MyPortfolio/static/media/Elsayed resume.667467012dc7366435a1.pdf",
     "static/media/spec-page.png": "/MyPortfolio/static/media/spec-page.f2ecf4e5171f5ca7f476.png",
+    "static/media/node.png": "/MyPortfolio/static/media/node.290f630040630c5948b6.png",
     "static/media/log-in.png": "/MyPortfolio/static/media/log-in.9f645aa8957f88224ec1.png",
     "static/media/lugx.png": "/MyPortfolio/static/media/lugx.ffa9a7b1ac5e730b50f7.png",
     "static/media/fresh-cart.png": "/MyPortfolio/static/media/fresh-cart.1aae0b7010efa9300e2e.png",
     "static/media/huddle.png": "/MyPortfolio/static/media/huddle.2f4985068d640fb7fc71.png",
     "static/media/quran.png": "/MyPortfolio/static/media/quran.69f887db3a71ff4d3ea8.png",
     "static/media/ocean.png": "/MyPortfolio/static/media/ocean.821787ef6ca2e0bc24f1.png",
+    "static/media/local_face.png": "/MyPortfolio/static/media/local_face.8baba9c5c13eb8a18899.png",
     "static/media/twitter-clone.png": "/MyPortfolio/static/media/twitter-clone.53cbd946737a437972ca.png",
     "static/media/GPT-3.png": "/MyPortfolio/static/media/GPT-3.3cf9677a1259557fc376.png",
     "static/media/myPhoto.jpeg": "/MyPortfolio/static/media/myPhoto.a5356ea88a7239981ff4.jpeg",
@@ -43,15 +44,14 @@
     "static/media/qrcode-generator.png": "/MyPortfolio/static/media/qrcode-generator.2bb66535942529ebe6bd.png",
     "static/media/logo.png": "/MyPortfolio/static/media/logo.961c574a19251b8b80b1.png",
     "static/media/react-router.png": "/MyPortfolio/static/media/react-router.24aa052cf5cc1e6b851f.png",
-    "static/media/SQL.png": "/MyPortfolio/static/media/SQL.934b5a16397ffe001902.png",
     "static/media/mySQL.png": "/MyPortfolio/static/media/mySQL.8ca52c25afffafaa83f1.png",
     "static/media/API.svg": "/MyPortfolio/static/media/API.390ebf0678c5834c980751921aa2c054.svg",
     "index.html": "/MyPortfolio/index.html",
     "main.fc3d415e.css.map": "/MyPortfolio/static/css/main.fc3d415e.css.map",
-    "main.992b1efa.js.map": "/MyPortfolio/static/js/main.992b1efa.js.map"
+    "main.c245fcc1.js.map": "/MyPortfolio/static/js/main.c245fcc1.js.map"
   },
   "entrypoints": [
     "static/css/main.fc3d415e.css",
-    "static/js/main.992b1efa.js"
+    "static/js/main.c245fcc1.js"
   ]
 }
