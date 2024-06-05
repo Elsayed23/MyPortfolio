@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MyPortfolio/static/css/main.fc3d415e.css",
-    "main.js": "/MyPortfolio/static/js/main.a44783de.js",
+    "main.js": "/MyPortfolio/static/js/main.09ab9467.js",
     "static/media/restoran.png": "/MyPortfolio/static/media/restoran.543b88a3a7aae8731f7f.png",
     "static/media/NFT-market.png": "/MyPortfolio/static/media/NFT-market.fdfd2a1fc466576a7afe.png",
     "static/media/leon.png": "/MyPortfolio/static/media/leon.32602eb7779ff8180699.png",
@@ -42,16 +42,15 @@
     "static/media/age_calculator.png": "/MyPortfolio/static/media/age_calculator.15c8336639ed7516f1b0.png",
     "static/media/calculator.png": "/MyPortfolio/static/media/calculator.eba7612b4d719d27d604.png",
     "static/media/qrcode-generator.png": "/MyPortfolio/static/media/qrcode-generator.2bb66535942529ebe6bd.png",
-    "static/media/logo.png": "/MyPortfolio/static/media/logo.961c574a19251b8b80b1.png",
     "static/media/react-router.png": "/MyPortfolio/static/media/react-router.24aa052cf5cc1e6b851f.png",
     "static/media/mySQL.png": "/MyPortfolio/static/media/mySQL.8ca52c25afffafaa83f1.png",
     "static/media/API.svg": "/MyPortfolio/static/media/API.390ebf0678c5834c980751921aa2c054.svg",
     "index.html": "/MyPortfolio/index.html",
     "main.fc3d415e.css.map": "/MyPortfolio/static/css/main.fc3d415e.css.map",
-    "main.a44783de.js.map": "/MyPortfolio/static/js/main.a44783de.js.map"
+    "main.09ab9467.js.map": "/MyPortfolio/static/js/main.09ab9467.js.map"
   },
   "entrypoints": [
     "static/css/main.fc3d415e.css",
-    "static/js/main.a44783de.js"
+    "static/js/main.09ab9467.js"
   ]
 }
