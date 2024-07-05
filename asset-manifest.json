@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MyPortfolio/static/css/main.fc3d415e.css",
-    "main.js": "/MyPortfolio/static/js/main.0b55aba5.js",
+    "main.js": "/MyPortfolio/static/js/main.b7f1fa0a.js",
     "static/media/restoran.png": "/MyPortfolio/static/media/restoran.543b88a3a7aae8731f7f.png",
     "static/media/NFT-market.png": "/MyPortfolio/static/media/NFT-market.fdfd2a1fc466576a7afe.png",
     "static/media/leon.png": "/MyPortfolio/static/media/leon.32602eb7779ff8180699.png",
@@ -16,7 +16,7 @@
     "static/media/flight_booking.png": "/MyPortfolio/static/media/flight_booking.ad0dbd92cec32ec7af03.png",
     "static/media/recipes.png": "/MyPortfolio/static/media/recipes.6e3090d5136d032cd518.png",
     "static/media/doml.png": "/MyPortfolio/static/media/doml.bf1e5ed30fd66e8f407a.png",
-    "static/media/Elsayed resume.pdf": "/MyPortfolio/static/media/Elsayed resume.667467012dc7366435a1.pdf",
+    "static/media/ElsayedResume.pdf": "/MyPortfolio/static/media/ElsayedResume.cc59a29d5d2d44e2ebb8.pdf",
     "static/media/spec-page.png": "/MyPortfolio/static/media/spec-page.f2ecf4e5171f5ca7f476.png",
     "static/media/node.png": "/MyPortfolio/static/media/node.290f630040630c5948b6.png",
     "static/media/log-in.png": "/MyPortfolio/static/media/log-in.9f645aa8957f88224ec1.png",
@@ -48,10 +48,10 @@
     "static/media/API.svg": "/MyPortfolio/static/media/API.390ebf0678c5834c980751921aa2c054.svg",
     "index.html": "/MyPortfolio/index.html",
     "main.fc3d415e.css.map": "/MyPortfolio/static/css/main.fc3d415e.css.map",
-    "main.0b55aba5.js.map": "/MyPortfolio/static/js/main.0b55aba5.js.map"
+    "main.b7f1fa0a.js.map": "/MyPortfolio/static/js/main.b7f1fa0a.js.map"
   },
   "entrypoints": [
     "static/css/main.fc3d415e.css",
-    "static/js/main.0b55aba5.js"
+    "static/js/main.b7f1fa0a.js"
   ]
 }
