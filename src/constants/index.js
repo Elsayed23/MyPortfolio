@@ -86,6 +86,12 @@ export const projectsData = [
         code: 'https://github.com/Elsayed23/Restoran'
     },
     {
+        thumbnailImage: require('../Images/todo-app.png'),
+        title: 'Todo App',
+        demo: 'https://elsayed23.github.io/todo-app/',
+        code: 'https://github.com/Elsayed23/todo-app'
+    },
+    {
         thumbnailImage: require('../Images/GPT-3.png'),
         title: 'GPT-3_jsm',
         demo: 'https://elsayed23.github.io/GPT-3/',
