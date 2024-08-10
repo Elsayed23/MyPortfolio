@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.fc3d415e.css",
-    "main.js": "/MyPortfolio/static/js/main.6a26587f.js",
+    "main.css": "/MyPortfolio/static/css/main.d4a04f27.css",
+    "main.js": "/MyPortfolio/static/js/main.86ada13b.js",
     "static/media/restoran.png": "/MyPortfolio/static/media/restoran.543b88a3a7aae8731f7f.png",
+    "static/media/myPhoto.jpeg": "/MyPortfolio/static/media/myPhoto.322e5e6de9dad6a36d65.jpeg",
     "static/media/NFT-market.png": "/MyPortfolio/static/media/NFT-market.fdfd2a1fc466576a7afe.png",
     "static/media/leon.png": "/MyPortfolio/static/media/leon.32602eb7779ff8180699.png",
     "static/media/spec-design.png": "/MyPortfolio/static/media/spec-design.913634325e4ebc3ba4eb.png",
@@ -29,7 +30,6 @@
     "static/media/local_face.png": "/MyPortfolio/static/media/local_face.8baba9c5c13eb8a18899.png",
     "static/media/twitter-clone.png": "/MyPortfolio/static/media/twitter-clone.53cbd946737a437972ca.png",
     "static/media/GPT-3.png": "/MyPortfolio/static/media/GPT-3.3cf9677a1259557fc376.png",
-    "static/media/myPhoto.jpeg": "/MyPortfolio/static/media/myPhoto.a5356ea88a7239981ff4.jpeg",
     "static/media/fylo.png": "/MyPortfolio/static/media/fylo.ead727e3b1051ef94f43.png",
     "static/media/nike.png": "/MyPortfolio/static/media/nike.08c6cd8e8cf6f487ba3c.png",
     "static/media/js.png": "/MyPortfolio/static/media/js.fb3d3fa5c4b626e26f39.png",
@@ -49,11 +49,11 @@
     "static/media/mySQL.png": "/MyPortfolio/static/media/mySQL.8ca52c25afffafaa83f1.png",
     "static/media/API.svg": "/MyPortfolio/static/media/API.390ebf0678c5834c980751921aa2c054.svg",
     "index.html": "/MyPortfolio/index.html",
-    "main.fc3d415e.css.map": "/MyPortfolio/static/css/main.fc3d415e.css.map",
-    "main.6a26587f.js.map": "/MyPortfolio/static/js/main.6a26587f.js.map"
+    "main.d4a04f27.css.map": "/MyPortfolio/static/css/main.d4a04f27.css.map",
+    "main.86ada13b.js.map": "/MyPortfolio/static/js/main.86ada13b.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc3d415e.css",
-    "static/js/main.6a26587f.js"
+    "static/css/main.d4a04f27.css",
+    "static/js/main.86ada13b.js"
   ]
 }
