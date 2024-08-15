@@ -23,8 +23,8 @@ const About = () => {
             <div className="py-36 min-h-[calc(100vh-129px)]">
                 <SecTitle title='About Me' />
                 <div className="container px-4 mx-auto items-center flex flex-col lg:flex-row 4 gap-24">
-                    <div className="rounded-full min-w-[310px] w-[310px] h-[310px]">
-                        <img src={myPhoto} className='w-full h-full border-4 rounded-full object-cover' alt="myPhoto" />
+                    <div className="rounded-full min-w-[310px] w-[310px] border-4 h-[310px] overflow-hidden">
+                        <img src={myPhoto} className='w-full h-full rounded-full object-cover object-center scale-125' alt="myPhoto" />
                     </div>
                     <div className="text-lg text-[#cccccc]">
                         <p className=' leading-relaxed mb-10'>I'm Elsayed Kewan. I am a dedicated and aspiring Frontend Developer with a strong passion for web development, specializing in React.js and Next.js. Eager to expand my skills and knowledge, I continuously seek out learning opportunities and hands-on projects. My goal is to contribute to innovative web applications that provide exceptional user experiences. I am on a journey to becoming a Full Stack Developer, driven by curiosity and a commitment to excellence.</p>
