@@ -43,7 +43,7 @@ export const socialData = [
     {
         id: 4,
         icon: faWhatsapp,
-        url: 'https://wa.me/+201152989114'
+        url: 'https://wa.me/+201040578478'
     },
 ]
 

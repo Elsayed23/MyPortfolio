@@ -29,7 +29,11 @@ const About = () => {
                         }} alt="myPhoto" />
                     </div>
                     <div className="text-lg text-[#cccccc]">
-                        <p className=' leading-relaxed mb-10'>I'm Elsayed Kewan. I am a dedicated and aspiring Frontend Developer with a strong passion for web development, specializing in React.js and Next.js. Eager to expand my skills and knowledge, I continuously seek out learning opportunities and hands-on projects. My goal is to contribute to innovative web applications that provide exceptional user experiences. I am on a journey to becoming a Full Stack Developer, driven by curiosity and a commitment to excellence.</p>
+                        <div className=' leading-relaxed mb-10'>
+                            <p className='mb-4'>I'm Elsayed Kewan, a passionate and dedicated Full Stack Developer with hands-on experience in building modern web applications using Next.js, Node.js, MySQL, and Prisma ORM. My journey started in frontend development, where I specialized in React.js and Next.js, and naturally evolved into full stack development as I pursued a deeper understanding of backend technologies.</p>
+
+                            <p>I craft clean and responsive user interfaces using Tailwind CSS and shadcn/ui, focusing on both aesthetics and usability. I thrive on learning and constantly seek opportunities to grow through real-world projects. I'm committed to creating innovative and scalable web applications that deliver seamless user experiences, and I’m always exploring new tools and best practices to refine my craft.</p>
+                        </div>
                         <div className="chips flex gap-x-2 gap-y-3 flex-wrap">
                             {skills}
                         </div>
