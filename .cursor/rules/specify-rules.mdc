@@ -1,0 +1,41 @@
+---
+description: Project Development Guidelines
+globs: ["**/*"]
+alwaysApply: true
+---
+
+# portfolio Development Guidelines
+
+Auto-generated from all feature plans. Last updated: 2026-03-22
+
+## Active Technologies
+
+- JavaScript (ES2020+), React 19 + Next.js 16 (App Router), Tailwind CSS 3.4, shadcn-style UI (`components/ui`, `tailwindcss-animate`, `cn()` helper), `framer-motion`, `react-icons` as used today (001-ui-refactor-timeline)
+
+## Project Structure
+
+```text
+app/                     # App Router; route-specific UI under app/(site)/<segment>/
+components/              # Shared UI: layout/, experience/, not-found/, other/, ui/
+constants/               # Data (projects, nav, timeline, features)
+images/                  # Bundled images (referenced from constants and components)
+lib/                     # Small utilities (e.g. assetUrl)
+public/                  # Static files (resume PDF, robots.txt, etc.)
+```
+
+## Commands
+
+npm test && npm run lint
+
+## Code Style
+
+JavaScript (ES2020+), React 19 + Next.js: Follow standard conventions
+
+## Recent Changes
+
+- 001-ui-refactor-timeline: Added JavaScript (ES2020+), React 18.3 + `react-scripts` 5, `react-router-dom` 7, Tailwind CSS 3.4, `@material-tailwind/react`, `framer-motion`, Font Awesome / Heroicons as used today
+- Migrated to Next.js 16 App Router + React 19 (replaced CRA and React Router)
+- App Router at repo root `app/`; route views colocated under `app/(site)/<segment>/`; shared UI in `components/`, data in `constants/` (no `src/` directory)
+
+<!-- MANUAL ADDITIONS START -->
+<!-- MANUAL ADDITIONS END -->

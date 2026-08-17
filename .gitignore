@@ -8,8 +8,13 @@
 # testing
 /coverage
 
+/__tests__/*
+
+.specify/*
 # production
 /build
+/.next/
+/out/
 .vscode
 # misc
 .env

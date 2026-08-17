@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://portfolio.local/schemas/timeline-entry.json",
+  "title": "TimelineEntry",
+  "description": "Contract for a single work/career timeline item in the portfolio SPA.",
+  "type": "object",
+  "required": ["id", "title", "organization", "startDate", "endDate"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Stable unique identifier for React keys and tests."
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Role or program title."
+    },
+    "organization": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Employer or institution."
+    },
+    "startDate": {
+      "type": "string",
+      "minLength": 4,
+      "description": "Start of period; prefer YYYY-MM or ISO-8601 date."
+    },
+    "endDate": {
+      "type": ["string", "null"],
+      "description": "End of period, or null for present."
+    },
+    "description": {
+      "type": "string",
+      "description": "Optional short description."
+    },
+    "type": {
+      "type": "string",
+      "enum": ["work", "education", "other"],
+      "description": "Optional category for styling or grouping."
+    }
+  },
+  "additionalProperties": false
+}
